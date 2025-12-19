@@ -4,6 +4,8 @@ This project leverages Power BI to analyze workforce data and deliver clear, act
 
 The dashboard is designed to support HR leaders and management in making data-driven workforce decisions.
 
+![Excel alt](https://github.com/Lawal-faruq/HR_Dashboard/blob/8d585435b444897985819cfb254a5825ee0bdc0c/HR%20Dashboard.png)
+
 ---
 
 ### Project Objective
